@@ -1,7 +1,7 @@
-# Logistic Regression (& Lasso) applied for Predicting Breast Cancer Rates from blood and obesity parameters
-Regression classification in Healthcare Industry
+# Logistic Regression applied for Predicting Breast Cancer Rates from blood and obesity parameters
+Linear Logistic Regression classification applied to Healthcare Industry
 
-Conclusions: The model gives better prediction results than random choice as AUC on test data is calculated as 62%. Also, using a confusion marix wth 50% as the probabily of cutoff, the accuracy of the model stands at 61%. The model could have been improved using a larger data set.
+Conclusions: The model gives better prediction results than random choice as AUC on test data is calculated as 62%. Also, using a confusion marix wth 50% as the probabily of cutoff, the accuracy of the model stands at 61%. The model may improved by training using a larger data set.
 
 Dataset Description: There are 10 predictors, all quantitative, and a binary dependent variable, indicating the presence or absence of breast cancer. The predictors are anthropometric data and parameters which can be gathered in routine blood analysis. Prediction models based on these predictors, if accurate, can potentially be used as a biomarker of breast cancer.
 
