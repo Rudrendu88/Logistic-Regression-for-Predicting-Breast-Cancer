@@ -11,7 +11,9 @@ There are 10 predictors, all quantitative, and a binary dependent variable, indi
 
 Publication: 
 
-This data set was originally used in this publication, https://link.springer.com/article/10.1007/s12020-016-0893-x
+This data set was originally used in this publication, 
+
+https://link.springer.com/article/10.1007/s12020-016-0893-x
 
 Credits: 
 
