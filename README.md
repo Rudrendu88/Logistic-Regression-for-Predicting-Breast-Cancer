@@ -1,5 +1,5 @@
 # Logistic Regression applied for Predicting Breast Cancer Rates from blood and obesity parameters
-Linear Logistic Regression classification applied to Healthcare Industry
+Application of Linear Logistic Regression classification in Healthcare Industry
 
 Conclusions: The model gives better prediction results than random choice as AUC on test data is calculated as 62%. Also, using a confusion marix wth 50% as the probabily of cutoff, the accuracy of the model stands at 61%. The model may improved by training using a larger data set.
 
