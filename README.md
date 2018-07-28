@@ -8,3 +8,5 @@ Dataset Description: There are 10 predictors, all quantitative, and a binary dep
 Publication: This data set was originally used in this publication, https://link.springer.com/article/10.1007/s12020-016-0893-x
 
 Credits: [Patricio, 2018] Patrício, M., Pereira, J., Crisóstomo, J., Matafome, P., Gomes, M., Seiça, R., & Caramelo, F. (2018). Using Resistin, glucose, age and BMI to predict the presence of breast cancer. BMC Cancer, 18(1). [Web Link]
+
+Data Source: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
