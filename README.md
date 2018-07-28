@@ -9,7 +9,9 @@ Dataset Description:
 
 There are 10 predictors, all quantitative, and a binary dependent variable, indicating the presence or absence of breast cancer. The predictors are anthropometric data and parameters which can be gathered in routine blood analysis. Prediction models based on these predictors, if accurate, can potentially be used as a biomarker of breast cancer.
 
-Publication: This data set was originally used in this publication, https://link.springer.com/article/10.1007/s12020-016-0893-x
+Publication: 
+
+This data set was originally used in this publication, https://link.springer.com/article/10.1007/s12020-016-0893-x
 
 Credits: 
 
